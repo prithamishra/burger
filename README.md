@@ -6,10 +6,10 @@ Technologies
 4. HAndlebars
 
 Installation
-git clone <project>
-cd <project directory>
-npm install the dependencies
-node serve.js
+1. git clone <project>
+2. cd <project directory>
+3. npm install the dependencies
+4. node server.js
 
 
 
